@@ -53,8 +53,8 @@ function App() {
     <div className="App">
       <h1>Multiplayer Realtime Slider Demo</h1>
 
-      <p>Open me on multiple browsers, then change a slider in one browser and watch the same one update on all the other browsers.</p>
-
+      <h2>Open me on multiple browsers, then change a slider in one browser and watch the same one update on all the other browsers.</h2>
+      <h3>Slider Using Local Resolver</h3>
       <div>
         Slider 1:  <Counter name="Slider1" />
       </div>
